@@ -55,7 +55,6 @@
 .new_links{
     margin-top: 1rem;
     display: flex;
-    /* justify-content: center; */
     align-items: center;
 }
 .line{
@@ -65,8 +64,6 @@
     margin-left: 5px;
 }
 .new_links > a {
-    /* text-decoration: none; */
     margin-left: 5px;
     color: gray;
-    /* display: block; */
 }
